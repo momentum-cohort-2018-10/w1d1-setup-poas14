@@ -1,0 +1,13 @@
+✔ ~
+14:37 $ brew --version
+Homebrew 1.8.0
+Homebrew/homebrew-core (git revision 195a; last commit 2018-10-29)
+Homebrew/homebrew-cask (git revision 03ee; last commit 2018-10-29)
+✔ ~
+14:40 $ python3 --version
+Python 3.7.0
+✔ ~
+14:40 $ pipenv --version
+pipenv, version 2018.10.13
+✔ ~
+14:40 $
